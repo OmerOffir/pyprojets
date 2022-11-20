@@ -1,6 +1,6 @@
 
 '''
-The next code ask the user to write his city his grew up in and his pads name,
+The next code ask the user to write his city his grew up in and his pets name,
 and combine this answers into his rock band name.
 
 '''
