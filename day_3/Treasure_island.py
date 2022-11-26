@@ -5,10 +5,6 @@ In this script we gonna create a find the treasure game, using if/elif/else stat
 
 
 
-
-from itertools import count
-
-
 if __name__ == "__main__":
 
 
