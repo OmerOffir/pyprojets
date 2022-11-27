@@ -1,5 +1,4 @@
 
-
 '''
  This script will create the "FizzBuzz" game.
 
@@ -17,26 +16,23 @@ For example, a typical round of fizz buzz would start as follows:
 
 
 
-
-
-if __name__ == "__main__":
-
-    print ("Start the FizzBuss game...")
-
-    for number in range(1,101):
-        if number % 3 == 0 :
-            if number % 5 == 0:
-                print("FizzBuzz")
-            else:
-                print("Fizz")
-        elif number % 5 == 0 :
-            if number  % 3 == 0:
-                print("FizzBuzz")
-            else:
-                print ('Buzz')
+for index in range(1, 101):
+    if (index % 3 == 0):
+        if (index % 5 == 0):
+            print("fizzbuzz")
         else:
-            print(number)
+            print("fizz")
+    elif (index % 5 == 0):
+            print("buzz")
+
+    else:
+        print(index)
+
+         
         
 
 
-        
+    
+
+
+    
