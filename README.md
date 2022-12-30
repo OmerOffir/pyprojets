@@ -1,2 +1,2 @@
 
-100 Days of code: The complete pythopn pro bootcamp for 2023
+100 Days of code: The complete python pro bootcamp for 2023
