@@ -26,7 +26,7 @@ if __name__ == "__main__":
     print("Welcome to the secret auction program")
     while True:
         name = input("What is your name? ")
-        bid = float(input("What is your bis? "))
+        bid = float(input("What is your bits? "))
         new_player(name, bid)
         another_player = input("Are there any other bidders?  Type 'Yes' or 'No  ")
         if another_player == 'No':
